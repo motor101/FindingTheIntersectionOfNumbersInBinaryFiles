@@ -1,0 +1,6 @@
+5
+binaryFiles\hello.bin
+binaryFiles\there.bin
+binaryFiles\how.bin
+binaryFiles\are.bin
+binaryFiles\you.bin
